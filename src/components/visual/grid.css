@@ -1,0 +1,22 @@
+:root {
+    /* Colors */
+    --razor-color: #000000;
+    --bomb-color: #910b0b;
+    --machine-color: #000000;
+
+    --dirt-color: #FFFFFF;
+    --sprout-color: #7bb374;
+    --teen-color: #bcddbb;
+    --adult-color: #F64CFF;
+
+    --hover-plant-color: #7bb374;
+    --hover-bomb-color: #910b0b;
+}
+
+#hover_plant:hover {
+    background-color: var(--hover-plant-color);
+}
+
+#hover_bomb:hover {
+    background-color: var(--hover-bomb-color);
+}

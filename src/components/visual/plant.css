@@ -1,0 +1,8 @@
+#plant1:after { border-top-color: var(--sprout-color); }
+#plant1 { border-bottom-color: var(--sprout-color); }
+
+#plant2:after { border-top-color: var(--teen-color); }
+#plant2 { border-bottom-color: var(--teen-color); }   
+
+#plant3:after { border-top-color: var(--adult-color); }
+#plant3 { border-bottom-color: var(--adult-color); }
